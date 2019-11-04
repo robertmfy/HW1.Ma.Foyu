@@ -4,7 +4,6 @@ clear; clf; figure(1);
 
 % Free [Q=Q_(dim x q)] and fixed [Q=Q_(dim x q)] node locations:
 h=1;r=1;dim=3;
-pBar=4;
 alpha=pi/4;
 theta=pi/2;
 Q=[];P=[];
